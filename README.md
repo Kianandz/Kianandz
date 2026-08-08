@@ -10,7 +10,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,react,nodejs,bash,linux,git,github,tailwind,html,css,mysql&perline=6" />
 </p>
+
 ---
+
 <p align="center">
   <i>"Code. Coffee. Repeat."</i>
 </p>
